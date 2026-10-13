@@ -20,6 +20,18 @@ An interactive **Power BI dashboard** developed to analyze bank loan data and pr
 * Loan Term Analysis
 * Good Loan vs Bad Loan Performance
 
+## Key Insights
+
+* **Longer terms are riskier:** 60-month loans have a 22.34% charged-off rate, about 2x the 10.71% of 36-month loans, and make up 43% of all charged-off loans.
+* **Risk rises with grade:** the charged-off rate climbs from 5.70% (Grade A) to 31.31% (Grade G).
+* **Small-business loans are riskiest:** 25.62% charged-off, versus 14.55% for debt consolidation, the largest category.
+* **Overall:** 38,576 applications, 435.76M funded, 86.18% good loans and 13.82% bad loans.
+
+## AI-assisted analysis
+
+I used ChatGPT to generate initial insights and recommendations from the dataset. I then verified every figure against the raw Excel data, and all of them matched. These findings describe patterns in the data and do not prove cause.
+
+
 ## Tools Used
 
 * **Power BI**
